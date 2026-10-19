@@ -170,12 +170,3 @@ All animations respect `prefers-reduced-motion: reduce`:
 ## License
 
 This project is personal portfolio work by **Karthik P**. Feel free to use the code structure as inspiration for your own portfolio, but please replace all personal content (text, images, and branding).
-
----
-
-## Contact
-
-- **Email:** [karthikkarthikpwork@gmail.com](mailto:karthikkarthikpwork@gmail.com)
-- **Phone:** [+91 73064 01885](tel:+917306401885)
-- **LinkedIn:** [linkedin.com/in/karthik-p-karthik](https://linkedin.com/in/karthik-p-karthik)
-- **GitHub:** [github.com/karthik-joseph](https://github.com/karthik-joseph)
